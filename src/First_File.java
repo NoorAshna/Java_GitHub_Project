@@ -1,8 +1,6 @@
-
 public class First_File {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		String name = "Noor Ahmad";
 		String rollno = "20I-2343";
